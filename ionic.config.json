@@ -1,0 +1,7 @@
+{
+  "name": "appth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
