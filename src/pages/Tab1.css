@@ -1,0 +1,35 @@
+.title{
+  text-align: center;
+}
+.test1
+{
+  box-shadow: 6px 6px 10px 2px#252525;
+  margin: 7px;
+  border: 1px solid #3f3f3f;
+  border-radius: 20px;
+  height: 300px;
+  opacity: 1.0;
+}
+.test1:hover
+{
+  
+  border: 1px solid #2e2e2e;
+  background-color: #F7C723;
+  opacity: 0.9;
+}
+.logo{
+  padding-top: 50px;
+  font-size:100px;
+ 
+}
+.text1{
+  font-size: 30px;
+}
+.text2{
+  font-size: 20px;
+ 
+}
+.row1
+{
+  text-align:center;
+}
