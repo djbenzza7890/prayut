@@ -69,7 +69,7 @@ const Tab1: React.FC = () => {
             <IonLabel class="text2">21 Plac</IonLabel>
             </IonCol>
           </IonRow>
-            sadasd
+            
           
 
         </IonGrid>
